@@ -16,11 +16,41 @@ I'm transitioning into tech and diving into the world of **Data Science**, **Dat
 📧 Let's connect! Please don't hesitate to contact me.
 
 ### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
+<img 
+  alt='Python'
+  title='Python'
+  width='30px'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img 
+  alt='SQL'
+  title='SQL'  
+  width='30px'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img 
+  alt='VSCODE'
+  title='VSCODE'
+  width='30px'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+                    
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vitoriavareira&theme=catppuccin_latte&show_icons=true&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vitoriavareira&theme=catppuccin_latte&hide_border=true)<br/>
-<!--[](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriavareira&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
+<p>
+  <img
+    align='left'
+    alt='GitHub Stats'
+    height='200'
+    style='padding-right: 10px;'
+    src='https://github-readme-stats.vercel.app/api?username=vitoriavareira&show_icons=true&rank_icon=github&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false'
+    />
+  
+ <!-- <img
+    align='left'
+    alt='GitHub Stats'
+    height='200'
+    src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriavareira&theme=catppuccin_latte&hide_border=true&layout=compact&langs_count=3'
+    /> -->
+</p>
+
+
+          
 
