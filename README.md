@@ -20,7 +20,7 @@ I'm transitioning into tech and diving into the world of **Data Science**, **Dat
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vitoriavareira&theme=catppuccin_latte&show_icons=true&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=vitoriavareira&theme=catppuccin_latte&show_icons=true&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vitoriavareira&theme=catppuccin_latte&hide_border=true)<br/>
 <!--[](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriavareira&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
